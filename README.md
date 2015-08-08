@@ -9,3 +9,10 @@ It might be complicate at the beginning to get use to save every meaning full
 changes in this repo but it will defiantly make my life easier in the future.  
 **My periodic vehicle inspection interval is 1 year**  
 (often results in a full system rewrite)
+
+## Installation 
+
+```sh
+git clone git@github.com:douglasduteil/laptop.git ~/laptop
+```
+
